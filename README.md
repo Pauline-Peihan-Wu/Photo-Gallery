@@ -11,13 +11,13 @@ Make sure you create the following:
 - style.css
 
 Create a link tag for your CSS stylesheet in your html document.
-#HTML
+# HTML
 1. Before the body, at top of the CSS stylesheet tag, create a header containing the title of your gallery using a `title` tag.
 2. In the `body` tag, create a header containing your gallery name using `header`tag.
 3. Then create a short description of your gallery by using `h2`tag.
 4. Now, you can create one `div`tag.
 5. Inside this `div`, you can add your photos by creating `img src=""`tag. Then make sure you use the correct `src` link to the image.
 
-#Resources
+# Resources
 HTML <img> src Attribute: https://www.w3schools.com/tags/att_img_src.asp<br>
 
