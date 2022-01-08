@@ -1,4 +1,4 @@
-# Make your Own Photo-Gallery
+# Make your own Photo-Gallery
 Want to show some good photos to others? It can be from online or the photos you take.
 # Before you begin
 - Please take some time to pick some (at least 2) photos/pictures you like, or you take for this project.
