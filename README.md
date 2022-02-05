@@ -59,7 +59,7 @@ You can name the id description or something else.
 
 
 # Resources
-Adding image: https://www.w3schools.com/tags/att_img_src.asp
-Display: https://www.w3schools.com/css/css_display_visibility.asp
-Position: https://www.w3schools.com/css/css_positioning.asp
+- Adding image: https://www.w3schools.com/tags/att_img_src.asp
+- Display: https://www.w3schools.com/css/css_display_visibility.asp
+- Position: https://www.w3schools.com/css/css_positioning.asp
 
